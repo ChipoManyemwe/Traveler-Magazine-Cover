@@ -4,7 +4,7 @@ This project features a **magazine cover design** created using Adobe Photoshop.
 The theme focuses on *travel and lifestyle*, highlighting layout design, color balance, and modern typography.
 
 ## 🖼️ Preview
-![Traveler Magazine Cover](Magazine cover.jpg)
+![Traveler Magazine Cover](Magazine_cover.jpg)
 
 ## 🧰 Tools Used
 - Adobe Photoshop  
